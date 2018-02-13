@@ -1,2 +1,2 @@
 # Palindrome
-This method of finding a palindrome seems to be effective!
+This method of discovering a palindrome seems to be effective!
