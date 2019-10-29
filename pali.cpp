@@ -8,7 +8,7 @@ int signeven(int , string);
 int signodd(int, string);
 
 int main()
-{
+{ 
 	while(1)
 	{
 		cout<<"\nEnter your palindrome: ";
